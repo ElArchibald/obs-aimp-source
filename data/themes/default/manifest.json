@@ -1,0 +1,45 @@
+{
+  "id": "default",
+  "name": "Default Dark Glass",
+  "author": "Alex",
+  "version": "1.0.0",
+  "description": "Modern dark glassmorphism card with album art, smooth progress bar and glowing accents",
+  "layout": {
+    "width": 520,
+    "height": 130,
+    "cornerRadius": 16,
+    "padding": 14,
+    "coverSize": 102,
+    "coverRadius": 10,
+    "coverSpacing": 16,
+    "progressBarHeight": 6,
+    "progressBarRadius": 3,
+    "progressBarBottomOffset": 14
+  },
+  "fonts": {
+    "titleFont": "Segoe UI",
+    "titleSize": 15,
+    "titleWeight": 700,
+    "artistFont": "Segoe UI",
+    "artistSize": 12,
+    "artistWeight": 500,
+    "timeFont": "Consolas",
+    "timeSize": 11,
+    "timeWeight": 400
+  },
+  "colors": {
+    "background": "#1A1B24E6",
+    "border": "#3A3D5480",
+    "borderWidth": 1.5,
+    "titleText": "#FFFFFF",
+    "artistText": "#A2A7BD",
+    "timeText": "#8E93AB",
+    "progressBackground": "#282B3C80",
+    "progressFill": "#FF7A00",
+    "progressFillEnd": "#FFA44D",
+    "glowColor": "#FF7A0040"
+  },
+  "assets": {
+    "placeholderCover": "placeholder.png"
+  }
+}

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+    <path fill="#fefefe" fill-rule="evenodd" d="M 24,2.4 A 21.6,21.6 0 1 0 24,45.6 A 21.6,21.6 0 1 0 24,2.4 Z M 24,7.5 A 16.5,16.5 0 1 1 24,40.5 A 16.5,16.5 0 1 1 24,7.5 Z M 24,11.04 L 12.06,30.72 L 28.56,30.72 L 26.43,27.21 L 18.96,27.21 L 24,18.96 L 30.9,30.72 L 35.61,30.72 Z"/>
+</svg>
