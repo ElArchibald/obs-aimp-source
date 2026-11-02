@@ -1,0 +1,46 @@
+{
+  "id": "compact",
+  "name": "Streamer Compact Pill",
+  "author": "Alex",
+  "version": "1.0.0",
+  "description": "Minimalist streamlined horizontal pill layout for discreet broadcast overlays",
+  "layout": {
+    "width": 440,
+    "height": 72,
+    "cornerRadius": 36,
+    "padding": 8,
+    "paddingRight": 24,
+    "coverSize": 56,
+    "coverRadius": 28,
+    "coverSpacing": 12,
+    "progressBarHeight": 4,
+    "progressBarRadius": 2,
+    "progressBarBottomOffset": 9
+  },
+  "fonts": {
+    "titleFont": "Segoe UI",
+    "titleSize": 13,
+    "titleWeight": 700,
+    "artistFont": "Segoe UI",
+    "artistSize": 11,
+    "artistWeight": 500,
+    "timeFont": "Consolas",
+    "timeSize": 10,
+    "timeWeight": 400
+  },
+  "colors": {
+    "background": "#14151EE6",
+    "border": "#2E314499",
+    "borderWidth": 1.5,
+    "titleText": "#FFFFFF",
+    "artistText": "#99A0B8",
+    "timeText": "#7E859E",
+    "progressBackground": "#22253380",
+    "progressFill": "#3D7BFF",
+    "progressFillEnd": "#68A5FF",
+    "glowColor": "#3D7BFF40"
+  },
+  "assets": {
+    "placeholderCover": "placeholder.png"
+  }
+}

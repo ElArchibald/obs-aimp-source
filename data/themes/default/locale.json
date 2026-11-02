@@ -1,0 +1,11 @@
+{
+  "ru-RU": {
+    "name": "Тёмное стекло (по умолчанию)",
+    "description": "Современная тёмная карточка с эффектом матового стекла и фирменным оранжевым акцентом AIMP"
+  },
+  "en-US": {
+    "name": "Default Dark Glass",
+    "description": "Modern dark glassmorphism card with album art, smooth progress bar and glowing accents"
+  }
+}
+

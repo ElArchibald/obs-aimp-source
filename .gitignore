@@ -1,0 +1,31 @@
+# Build artifacts
+build/
+build_*/
+release/
+.deps/
+bin/
+out/
+
+# Visual Studio / IDEs
+.vs/
+.vscode/
+*.user
+*.suo
+*.ide*
+.idea/
+
+# Temporary and backup files
+*.old
+*.bak
+*.tmp
+*~
+*.log
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# CMake generated files
+/cmake/.CMakeBuildNumber
+*.lock.json

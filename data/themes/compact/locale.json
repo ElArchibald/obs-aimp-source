@@ -1,0 +1,11 @@
+{
+  "ru-RU": {
+    "name": "Компактный виджет",
+    "description": "Минималистичный компактный горизонтальный pill-виджет для стримов"
+  },
+  "en-US": {
+    "name": "Streamer Compact Pill",
+    "description": "Minimalist streamlined horizontal pill layout for discreet broadcast overlays"
+  }
+}
+

@@ -1,0 +1,45 @@
+{
+  "id": "neon",
+  "name": "Cyberpunk Neon",
+  "author": "Alex",
+  "version": "1.0.0",
+  "description": "Vibrant synthwave theme with glowing cyan and neon pink accents",
+  "layout": {
+    "width": 520,
+    "height": 130,
+    "cornerRadius": 16,
+    "padding": 14,
+    "coverSize": 102,
+    "coverRadius": 10,
+    "coverSpacing": 16,
+    "progressBarHeight": 6,
+    "progressBarRadius": 3,
+    "progressBarBottomOffset": 14
+  },
+  "fonts": {
+    "titleFont": "Segoe UI",
+    "titleSize": 15,
+    "titleWeight": 700,
+    "artistFont": "Segoe UI",
+    "artistSize": 12,
+    "artistWeight": 500,
+    "timeFont": "Consolas",
+    "timeSize": 11,
+    "timeWeight": 400
+  },
+  "colors": {
+    "background": "#0D1124F0",
+    "border": "#00F0FF80",
+    "borderWidth": 2.0,
+    "titleText": "#FFFFFF",
+    "artistText": "#00F0FF",
+    "timeText": "#FF70BC",
+    "progressBackground": "#16203D80",
+    "progressFill": "#FF007F",
+    "progressFillEnd": "#00F0FF",
+    "glowColor": "#00F0FF66"
+  },
+  "assets": {
+    "placeholderCover": "placeholder.png"
+  }
+}

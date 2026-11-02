@@ -1,0 +1,45 @@
+{
+  "id": "card",
+  "name": "Emerald Luxury Card",
+  "author": "Alex",
+  "version": "1.0.0",
+  "description": "Premium dark brushed metallic card with sleek emerald accents",
+  "layout": {
+    "width": 520,
+    "height": 130,
+    "cornerRadius": 16,
+    "padding": 14,
+    "coverSize": 102,
+    "coverRadius": 10,
+    "coverSpacing": 16,
+    "progressBarHeight": 6,
+    "progressBarRadius": 3,
+    "progressBarBottomOffset": 14
+  },
+  "fonts": {
+    "titleFont": "Segoe UI",
+    "titleSize": 15,
+    "titleWeight": 700,
+    "artistFont": "Segoe UI",
+    "artistSize": 12,
+    "artistWeight": 500,
+    "timeFont": "Consolas",
+    "timeSize": 11,
+    "timeWeight": 400
+  },
+  "colors": {
+    "background": "#12171CE6",
+    "border": "#1E2A34AA",
+    "borderWidth": 1.5,
+    "titleText": "#FFFFFF",
+    "artistText": "#7EC9B1",
+    "timeText": "#8DA39C",
+    "progressBackground": "#1B2B2880",
+    "progressFill": "#10B981",
+    "progressFillEnd": "#34D399",
+    "glowColor": "#10B98144"
+  },
+  "assets": {
+    "placeholderCover": "placeholder.png"
+  }
+}

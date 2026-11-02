@@ -1,0 +1,20 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/aimp">
+        <file>source_dark.svg</file>
+        <file>source_light.svg</file>
+        <file>aimp_icon.svg</file>
+        <file>aimp_icon_mono.svg</file>
+        <file>prev.svg</file>
+        <file>play.svg</file>
+        <file>pause.svg</file>
+        <file>stop.svg</file>
+        <file>next.svg</file>
+        <file>shuffle.svg</file>
+        <file>repeat.svg</file>
+        <file>volume.svg</file>
+        <file>mute.svg</file>
+        <file>headphones.svg</file>
+        <file>headphones_mute.svg</file>
+    </qresource>
+</RCC>
